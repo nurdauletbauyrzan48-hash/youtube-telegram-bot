@@ -3,7 +3,7 @@ import yt_dlp
 import os
 
 # Токеніңді осында қой
-BOT_TOKEN = "ТВОЙ_Бот_Токен_Мұнда"
+BOT_TOKEN = "8339569755:AAFkXi4EJsSqBN0yGFz7ItffJnKfwenY35M"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # Басты хабарлама
